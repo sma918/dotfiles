@@ -1,7 +1,0 @@
-2024/07/08-22:52:13.920 911 Reusing MANIFEST /home/sam/.config/chromium/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/08-22:52:13.920 911 Recovering log #3
-2024/07/08-22:52:13.924 911 Reusing old log /home/sam/.config/chromium/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/000003.log 
-2024/07/08-22:54:43.394 912 Level-0 table #5: started
-2024/07/08-22:54:43.404 912 Level-0 table #5: 485555 bytes OK
-2024/07/08-22:54:43.414 912 Delete type=0 #3
-2024/07/08-22:54:43.414 912 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

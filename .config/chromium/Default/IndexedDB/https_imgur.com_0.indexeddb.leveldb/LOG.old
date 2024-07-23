@@ -1,7 +1,0 @@
-2024/07/18-21:42:06.604 38b9 Reusing MANIFEST /home/sam/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/18-21:42:06.604 38b9 Recovering log #24
-2024/07/18-21:42:06.604 38b9 Reusing old log /home/sam/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000024.log 
-2024/07/18-21:42:06.641 38bc Level-0 table #30: started
-2024/07/18-21:42:06.647 38bc Level-0 table #30: 619 bytes OK
-2024/07/18-21:42:06.656 38bc Delete type=0 #24
-2024/07/18-21:42:06.656 38c6 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

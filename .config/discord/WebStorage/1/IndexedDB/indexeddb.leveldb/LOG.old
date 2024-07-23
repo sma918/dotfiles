@@ -1,0 +1,7 @@
+2024/07/09-17:49:44.365 1360 Creating DB /home/sam/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb since it was missing.
+2024/07/09-17:49:44.384 1360 Reusing MANIFEST /home/sam/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/09-17:49:44.408 137f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/09-18:15:18.131 1360 Level-0 table #5: started
+2024/07/09-18:15:18.137 1360 Level-0 table #5: 2471 bytes OK
+2024/07/09-18:15:18.145 1360 Delete type=0 #3
+2024/07/09-18:15:18.146 1360 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
