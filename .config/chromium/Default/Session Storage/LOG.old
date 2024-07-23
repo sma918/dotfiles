@@ -1,0 +1,21 @@
+2024/07/22-17:39:20.935 4 Reusing MANIFEST /home/sam/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/07/22-17:39:20.936 4 Recovering log #58
+2024/07/22-17:39:20.936 4 Reusing old log /home/sam/.config/chromium/Default/Session Storage/000058.log 
+2024/07/22-18:50:28.832 6 Level-0 table #62: started
+2024/07/22-18:50:28.847 6 Level-0 table #62: 33073 bytes OK
+2024/07/22-18:50:28.857 6 Delete type=0 #58
+2024/07/22-20:30:49.904 6 Level-0 table #64: started
+2024/07/22-20:30:49.915 6 Level-0 table #64: 16232 bytes OK
+2024/07/22-20:30:49.925 6 Delete type=0 #61
+2024/07/22-20:55:05.598 6 Level-0 table #66: started
+2024/07/22-20:55:05.609 6 Level-0 table #66: 50056 bytes OK
+2024/07/22-20:55:05.619 6 Delete type=0 #63
+2024/07/22-20:55:05.619 6 Compacting 4@0 + 1@1 files
+2024/07/22-20:55:05.629 6 Generated table #67@0: 2364 keys, 57515 bytes
+2024/07/22-20:55:05.629 6 Compacted 4@0 + 1@1 files => 57515 bytes
+2024/07/22-20:55:05.639 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/22-20:55:05.639 6 Delete type=2 #56
+2024/07/22-20:55:05.639 6 Delete type=2 #66
+2024/07/22-20:55:05.639 6 Delete type=2 #64
+2024/07/22-20:55:05.639 6 Delete type=2 #62
+2024/07/22-20:55:05.640 6 Delete type=2 #59

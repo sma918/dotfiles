@@ -1,0 +1,6 @@
+2024/07/15-19:26:38.010 3afc Creating DB /home/sam/.config/chromium/Default/WebStorage/22/IndexedDB/indexeddb.leveldb since it was missing.
+2024/07/15-19:26:38.035 3afc Reusing MANIFEST /home/sam/.config/chromium/Default/WebStorage/22/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/15-19:27:33.738 3af9 Level-0 table #5: started
+2024/07/15-19:27:33.744 3af9 Level-0 table #5: 8244 bytes OK
+2024/07/15-19:27:33.753 3af9 Delete type=0 #3
+2024/07/15-19:27:33.753 3af9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
