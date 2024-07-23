@@ -1,0 +1,10 @@
+configuration {
+/* General Configuration */
+    font: "Hack Nerdfont 15";
+    location: 0;
+    show-icons: true;
+    icon-theme: "Papirus-Dark";
+    monitor: "DP-1";    
+    display-drun: "Search:";
+}
+@theme "gruv-theme.rasi"

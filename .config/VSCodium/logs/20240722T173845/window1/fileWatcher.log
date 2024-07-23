@@ -1,0 +1,2 @@
+2024-07-22 17:40:21.279 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sam/.config/chromium/Default/blob_storage/763c4859-6ada-4428-b65d-1c297748c34b' failed: No such file or directory (EUNKNOWN) (path: /home/sam)
+2024-07-22 17:40:21.279 [error] [File Watcher (universal)] inotify_add_watch on '/home/sam/.config/chromium/Default/blob_storage/763c4859-6ada-4428-b65d-1c297748c34b' failed: No such file or directory
