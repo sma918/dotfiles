@@ -31,5 +31,7 @@ Then you need to use stow to create the symlinks for the files.
 stow .
 ```
 
+You'll also have to install things like fonts and icon packs. The icon pack used for Rofi is [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme). The two fonts that aren't installed by default are [Hack and Terminess Nerd fonts](https://www.nerdfonts.com/font-downloads). The provided links will take you to their respective download pages.
+
 ## Additional Info
 If you need some extra info on how to use stow and all of that stuff, watch this video again: [GNU Stow Video](https://www.youtube.com/watch?v=y6XCebnB9gs)
