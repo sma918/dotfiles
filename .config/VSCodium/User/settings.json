@@ -1,7 +1,0 @@
-{
-    "workbench.colorTheme": "Gruvbox Dark Medium",
-    "workbench.startupEditor": "none",
-    "extensions.experimental.affinity": {
-        "asvetliakov.vscode-neovim": 1
-    }
-}

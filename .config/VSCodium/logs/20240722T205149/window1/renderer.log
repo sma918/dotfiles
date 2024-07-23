@@ -1,4 +1,0 @@
-2024-07-22 20:51:49.709 [info] Started local extension host with pid 33837.
-2024-07-22 20:51:52.355 [info] [perf] Render performance baseline is 18ms
-2024-07-22 20:53:08.834 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sam/.config/VSCodium/blob_storage/f410f500-f221-41b0-b39d-2f2d4a032a81' failed: No such file or directory (EUNKNOWN) (path: /home/sam)
-2024-07-22 20:53:08.835 [error] [File Watcher (universal)] inotify_add_watch on '/home/sam/.config/VSCodium/blob_storage/f410f500-f221-41b0-b39d-2f2d4a032a81' failed: No such file or directory

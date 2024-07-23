@@ -1,4 +1,0 @@
-2024-07-22 20:53:20.376 [info] Started local extension host with pid 34524.
-2024-07-22 20:53:23.062 [info] [perf] Render performance baseline is 18ms
-2024-07-22 20:54:39.848 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sam/.config/VSCodium/User/workspaceStorage/1721699581185' failed: No such file or directory (EUNKNOWN) (path: /home/sam)
-2024-07-22 20:54:39.850 [error] [File Watcher (universal)] inotify_add_watch on '/home/sam/.config/VSCodium/User/workspaceStorage/1721699581185' failed: No such file or directory

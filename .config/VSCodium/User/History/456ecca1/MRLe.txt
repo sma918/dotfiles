@@ -1,9 +1,0 @@
-##1. Monitor Configuration
-2. Theming (gruvbox)
-  ##2a. Rofi
-  ##2b. Bar
-  ##2c. System colors
-  ##2d. Alacritty
-  ##2e. Discord
-  2f. Spotify (maybe)
-##3. pfetch on Terminal Launch
