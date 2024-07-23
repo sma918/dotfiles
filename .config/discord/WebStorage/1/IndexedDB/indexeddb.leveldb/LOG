@@ -1,7 +1,0 @@
-2024/07/15-20:46:54.361 650 Reusing MANIFEST /home/sam/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/15-20:46:54.361 650 Recovering log #4
-2024/07/15-20:46:54.361 650 Reusing old log /home/sam/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000004.log 
-2024/07/15-20:46:54.396 6b8 Level-0 table #8: started
-2024/07/15-20:46:54.402 6b8 Level-0 table #8: 675 bytes OK
-2024/07/15-20:46:54.410 6b8 Delete type=0 #4
-2024/07/15-20:46:54.410 64f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

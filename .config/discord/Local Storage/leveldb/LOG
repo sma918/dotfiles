@@ -1,7 +1,0 @@
-2024/07/21-01:15:06.901 c80 Reusing MANIFEST /home/sam/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/07/21-01:15:06.934 c80 Recovering log #397
-2024/07/21-01:15:06.986 c80 Level-0 table #402: started
-2024/07/21-01:15:07.023 c80 Level-0 table #402: 2383861 bytes OK
-2024/07/21-01:15:07.043 c80 Delete type=0 #397
-2024/07/21-01:15:52.707 c80 Level-0 table #405: started
-2024/07/21-01:15:52.723 c80 Level-0 table #405: 803179 bytes OK
