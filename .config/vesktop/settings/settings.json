@@ -66,7 +66,15 @@
             "enabled": false
         },
         "BetterFolders": {
-            "enabled": false
+            "enabled": false,
+            "sidebar": true,
+            "showFolderIcon": 1,
+            "keepIcons": false,
+            "closeAllHomeButton": false,
+            "closeAllFolders": false,
+            "forceOpen": false,
+            "closeOthers": false,
+            "sidebarAnim": true
         },
         "BetterGifAltText": {
             "enabled": false
@@ -138,7 +146,8 @@
             "enabled": false
         },
         "Decor": {
-            "enabled": false
+            "enabled": false,
+            "agreedToGuidelines": false
         },
         "DisableCallIdle": {
             "enabled": false
@@ -264,7 +273,12 @@
             "enabled": false
         },
         "Moyai": {
-            "enabled": false
+            "enabled": true,
+            "volume": 0.49911971830985913,
+            "quality": "Normal",
+            "triggerWhenUnfocused": true,
+            "ignoreBots": true,
+            "ignoreBlocked": true
         },
         "MutualGroupDMs": {
             "enabled": false
@@ -333,7 +347,8 @@
             "enabled": false
         },
         "PartyMode": {
-            "enabled": false
+            "enabled": false,
+            "superIntensePartyMode": 0
         },
         "PauseInvitesForever": {
             "enabled": false
@@ -378,7 +393,12 @@
             "enabled": false
         },
         "RelationshipNotifier": {
-            "enabled": false
+            "enabled": true,
+            "offlineRemovals": true,
+            "groups": true,
+            "servers": true,
+            "friends": true,
+            "friendRequestCancels": true
         },
         "ReplaceGoogleSearch": {
             "enabled": false
@@ -420,9 +440,6 @@
             "enabled": false
         },
         "ShowAllMessageButtons": {
-            "enabled": false
-        },
-        "ShowAllRoles": {
             "enabled": false
         },
         "ShowConnections": {
@@ -480,7 +497,10 @@
             "enabled": false
         },
         "TypingIndicator": {
-            "enabled": false
+            "enabled": true,
+            "includeMutedChannels": false,
+            "includeCurrentChannel": true,
+            "indicatorMode": 3
         },
         "TypingTweaks": {
             "enabled": false
@@ -527,9 +547,6 @@
         "VoiceMessages": {
             "enabled": false
         },
-        "WatchTogetherAdblock": {
-            "enabled": false
-        },
         "WebKeybinds": {
             "enabled": true
         },
@@ -556,6 +573,12 @@
         },
         "SupportHelper": {
             "enabled": true
+        },
+        "YoutubeAdblock": {
+            "enabled": false
+        },
+        "AlwaysExpandRoles": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -568,6 +591,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1721356476553
+        "settingsSyncVersion": 1725833266053
     }
 }

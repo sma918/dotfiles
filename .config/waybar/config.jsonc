@@ -4,10 +4,12 @@
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 30, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
-    "spacing": 4, // Gaps between modules (4px)
+    "spacing": 15, // Gaps between modules (4px)
+    "margin-top": 10,
     // Choose the order of the modules
     "modules-left": [
-        "hyprland/workspaces",
+        "custom/powermenu",
+	"hyprland/workspaces",
        // "sway/scratchpad",
         "custom/media"
     ],
@@ -20,11 +22,12 @@
         "pulseaudio",
         "network",
        // "power-profiles-daemon",
-        "cpu",
-        "memory",
+        "group/cpu-mem",
+        // "cpu",
+        // "memory",
        // "temperature",
        // "backlight",
-        "keyboard-state",
+       // "keyboard-state",
        // "sway/language",
        // "battery",
        // "battery#bat2",
@@ -190,5 +193,19 @@
         "escape": true,
         "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
         // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
+    },
+    "custom/powermenu": {
+	"format": "{icon}",
+	"format-icons": {
+	    "default": "⏻"
+	},
+	"on-click": "$HOME/.config/rofi/powermenu/type-5/powermenu.sh"
+    },
+    "group/cpu-mem": {
+	"orientation": "horizontal",
+	"modules": [
+	    "cpu",
+	    "memory"
+	]
     }
 }

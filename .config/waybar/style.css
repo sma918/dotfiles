@@ -56,7 +56,7 @@ button:hover {
 #workspaces {
     background-color: #3c3836;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
     border: 3px solid #fbf1c7;
@@ -115,7 +115,7 @@ button:hover {
 #window {
     background-color: #504945;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
     border: 3px solid #fbf1c7;
@@ -124,8 +124,8 @@ button:hover {
 
 #window,
 #workspaces {
-    margin: 0 4px;
-    padding: 0 10px;
+    margin-bottom: 4px;
+    padding: 7 15px;
 }
 
 /* If workspaces is the leftmost module, omit left margin */
@@ -140,11 +140,12 @@ button:hover {
 
 #clock {
     background-color: #bdae93;
-    color: #1d2021;
+    color: #32302f;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
+    margin-right: 10;
     border: 3px solid #fbf1c7;
 }
 
@@ -201,23 +202,27 @@ label:focus {
 
 #cpu {
     background-color: #8ec07c;
-    color: #000000;
+    color: #32302f;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25 0 0 25;
     margin-bottom: 5;
     margin-top: 2;
+    margin-right: 0;
     border: 3px solid #fbf1c7;
+    border-right: none;
 
 }
 
 #memory {
-    background-color: #458588;
+    background-color: #8ec07c;
+    color: #32302f;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 0 25 25 0;
     margin-bottom: 5;
     margin-top: 2;
+    margin-left: 0;
     border: 3px solid #fbf1c7;
-
+    border-left: none;
 }
 
 #disk {
@@ -230,8 +235,9 @@ label:focus {
 
 #network {
     background-color: #83a598;
+    color: #32302f;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
     border: 3px solid #fbf1c7;
@@ -249,9 +255,9 @@ label:focus {
 
 #pulseaudio {
     background-color: #fabd2f;
-    color: #1d2021;
-    padding: 7 15;
-    border-radius: 10;
+    color: #32302f;
+    padding: 12 15;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
     border: 3px solid #fbf1c7;
@@ -297,7 +303,7 @@ label:focus {
 #tray {
     background-color: #928374;
     padding: 7 15;
-    border-radius: 10;
+    border-radius: 25;
     margin-bottom: 5;
     margin-top: 2;
     border: 3px solid #fbf1c7;
@@ -389,4 +395,15 @@ label:focus {
 
 #privacy-item.audio-out {
     background-color: #0069d4;
+}
+
+#custom-powermenu {
+    background-color: #cc241d;
+    padding: 12 15;
+    padding-right: 19px;
+    margin-left: 10px;
+    border-radius: 25;
+    margin-bottom: 5;
+    margin-top: 2;
+    border: 3px solid #fbf1c7;
 }
