@@ -1,3 +1,7 @@
-2024/07/22-22:20:03.450 ab0a Reusing MANIFEST /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/07/22-22:20:03.454 ab0a Recovering log #13
-2024/07/22-22:20:03.454 ab0a Reusing old log /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/000013.log 
+2024/10/24-21:21:09.838 33d9 Reusing MANIFEST /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/10/24-21:21:09.841 33d9 Recovering log #208
+2024/10/24-21:21:09.841 33d9 Level-0 table #211: started
+2024/10/24-21:21:09.876 33d9 Level-0 table #211: 55765 bytes OK
+2024/10/24-21:21:09.876 33d9 Recovering log #210
+2024/10/24-21:21:09.876 33d9 Reusing old log /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/000210.log 
+2024/10/24-21:21:09.885 33d9 Delete type=0 #208

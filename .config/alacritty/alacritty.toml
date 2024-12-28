@@ -16,7 +16,7 @@
 [window]
 
 padding = {x = 15, y = 10}
-opacity = 0.9
+opacity = 1
 # decorations = "none"
 
 
@@ -25,10 +25,10 @@ opacity = 0.9
 ############
 [font]
 
-size = 15
-normal = {family = "Terminess Nerdfont", style = "Regular"}
-bold = {family = "Terminess Nerdfont", style = "Bold"}
-italic = {family = "Terminess Nerdfont", style = "Italic"}
+size = 12
+normal = {family = "Hack Nerdfont", style = "Regular"}
+bold = {family = "Hack Nerdfont", style = "Bold"}
+italic = {family = "Hack Nerdfont", style = "Italic"}
 
 
 ##############

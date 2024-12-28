@@ -55,7 +55,7 @@
 	--accentcolor:			190, 78, 180;			/* default: 190, 78, 180			(RGB-format - blurple: 88, 101, 242 bd-blue: 58, 113, 193)				*/
 	
 	--settingsicons:		1;				/* Use Settings Icons in User Settings: 1 = yes, 0 = no											*/
-	--font:				"Hack Nerdfont", "Noto Sans";		/* font used in most places														*/
+	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
 	--background:			url(https://gruvbox-wallpapers.pages.dev/wallpapers/minimalistic/gruvbox_minimal_space.png);	/* general background image					*/

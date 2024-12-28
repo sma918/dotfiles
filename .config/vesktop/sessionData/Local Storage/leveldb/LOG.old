@@ -1,6 +1,20 @@
-2024/07/22-18:03:31.107 80c7 Reusing MANIFEST /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/07/22-18:03:31.110 80c7 Recovering log #11
-2024/07/22-18:03:31.139 80c7 Reusing old log /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/000011.log 
-2024/07/22-18:04:31.974 80c8 Level-0 table #14: started
-2024/07/22-18:04:31.983 80c8 Level-0 table #14: 17272 bytes OK
-2024/07/22-18:04:31.993 80c8 Delete type=0 #11
+2024/10/24-21:19:11.549 3336 Reusing MANIFEST /home/sam/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/10/24-21:19:11.563 3336 Recovering log #204
+2024/10/24-21:19:11.564 3336 Level-0 table #207: started
+2024/10/24-21:19:11.626 3336 Level-0 table #207: 29922 bytes OK
+2024/10/24-21:19:11.658 3336 Delete type=2 #8
+2024/10/24-21:19:11.658 3336 Delete type=0 #204
+2024/10/24-21:19:11.658 3336 Delete type=2 #14
+2024/10/24-21:19:11.658 3336 Delete type=0 #13
+2024/10/24-21:19:11.658 3336 Delete type=2 #10
+2024/10/24-21:19:11.659 3335 Compacting 4@0 + 1@1 files
+2024/10/24-21:19:11.676 3335 Generated table #209@0: 53 keys, 33904 bytes
+2024/10/24-21:19:11.676 3335 Compacted 4@0 + 1@1 files => 33904 bytes
+2024/10/24-21:19:11.686 3335 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/24-21:19:11.686 3335 Delete type=2 #205
+2024/10/24-21:19:11.686 3335 Delete type=2 #203
+2024/10/24-21:19:11.686 3335 Delete type=2 #201
+2024/10/24-21:19:11.686 3335 Delete type=2 #207
+2024/10/24-21:19:11.686 3335 Delete type=2 #198
+2024/10/24-21:21:09.541 3335 Level-0 table #211: started
+2024/10/24-21:21:09.558 3335 Level-0 table #211: 55765 bytes OK

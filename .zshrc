@@ -105,3 +105,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 neofetch
 source /home/sam/Git/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+alias btop="bashtop"
+alias update="sudo pacman -Syu"
+# Set up Node Version Manager
+source /usr/share/nvm/init-nvm.sh
